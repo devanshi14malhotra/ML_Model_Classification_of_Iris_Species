@@ -1,1 +1,1 @@
-
+This project aims to classify iris flowers into three species—Setosa, Versicolour, and Virginica—based on attributes like their sepal and petal measurements. Using machine learning models like Logistic Regression, Decision Tree, and K-Nearest Neighbors (KNN), we analyze the dataset, train models, and compare their performance to determine which classifier is the most accurate.
